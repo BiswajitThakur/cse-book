@@ -1,9 +1,9 @@
 # [Module 1: [6L]](./model1/index.md)
 ### Economic Decision Making
-1. Overview
-1. Role of Engineers in Economic Decision making
-1. Problem in Economic Decision Making
-1. Decision Making Process
+1. [Overview](./model1/1.md)
+1. [Role of Engineers in Economic Decision making](./model1/2.md)
+1. [Problem in Economic Decision Making](./model1/3.md)
+1. [Decision Making Process](./model1/4.md)
 ### Engineering Costs & Estimation
 1. Fixed
 1. Variable

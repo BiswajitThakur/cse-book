@@ -1,8 +1,8 @@
 ## Economic Decision Making
-1. Overview
-1. Role of Engineers in Economic Decision making
-1. Problem in Economic Decision Making
-1. Decision Making Process.
+1. [Overview](./1.md)
+1. [Role of Engineers in Economic Decision making](./2.md)
+1. [Problem in Economic Decision Making](./3.md)
+1. [Decision Making Process](./4.md)
 ## Engineering Costs & Estimation
 1. Fixed
 1. Variable
