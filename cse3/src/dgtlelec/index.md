@@ -1,8 +1,8 @@
 # Digital Electronics
 ## [Module 1: Basic Electronic devices \[8L\]](./1.md)
-1. [PN junction diode]()
-1. [Application of diodes in rectification]()
-1. [Half wave Full wave rectifier and Factors determining rectifier performance]()
+1. [PN junction diode](./pn_junction_diode.md)
+1. [Application of diodes in rectification](./application_of_diodes.md)
+1. [Half wave Full wave rectifier and Factors determining rectifier performance](./hlf_full_wv.md)
 1. [Transistor]()
 1. [ransistor characteristics for CE]()
 1. [CB and CC mode]()
