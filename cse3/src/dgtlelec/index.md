@@ -1,5 +1,5 @@
 # Digital Electronics
-## [Module 1: Basic Electronic devices \[8L\]]()
+## [Module 1: Basic Electronic devices \[8L\]](./1.md)
 1. [PN junction diode]()
 1. [Application of diodes in rectification]()
 1. [Half wave Full wave rectifier and Factors determining rectifier performance]()
